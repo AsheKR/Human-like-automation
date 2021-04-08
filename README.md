@@ -1,8 +1,4 @@
-<p align="center">
-  <img alt="Python Template" title="Python Template" src="./assets/logo.png" width="128">
-</p>
-
-<h1 align="center">Python Template</h1>
+<h1 align="center">Human Like Automation</h1>
 
 <p align="center">
   <a href="#overview">Overview</a> |
@@ -11,9 +7,11 @@
 
 ## Overview
 
-anyone with access to the repository can generate a new repository with the same directory structure and files as your default branch.
+It provides a utility that seems to act like a human being
 
 ## Features
+
+## Development
 
 - [prospector](https://github.com/PyCQA/prospector)
 - [pre-commit](https://github.com/pre-commit/pre-commit)
